@@ -1,0 +1,19 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cloudconvert": "^2.1.3",
+    "handlebars": "^4.7.6",
+    "html-pdf": "^2.2.0",
+    "mustache": "^4.0.1",
+    "pdf-lib": "^1.10.0"
+  }
+}
